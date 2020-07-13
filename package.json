@@ -1,7 +1,6 @@
 {
   "name": "bulma-theme",
   "description": "This project was generated from the Mintbean bulma-theme template using the mintbean-cli tool.",
-  "homepage": "https://mcagan.github.io/DogFinder/",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -13,7 +12,7 @@
   },
   "mintbean": {
     "template": "bulma-theme",
-    "homepage": "https://monarchwadia.github.io/bulma-theme/",
+    "homepage": "https://mcagan.github.io/DogFinder/",
     "scripts": {
       "deploy": "npm run deploy",
       "develop": "npm run start"
