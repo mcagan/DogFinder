@@ -28,3 +28,37 @@ header h1 {
   margin-left: 4em;
   margin-right: 4em;
 }
+
+p {
+  font-weight: bold;
+  margin-top: 1.5em;
+}
+
+form {
+  margin-top: 8em;
+  background-color: $red;
+  display: flex;
+  flex-direction: column;
+}
+
+.field {
+  width: 60%;
+  align-self: center;
+  margin-bottom: 3em;
+}
+
+.label {
+  color: whitesmoke;
+}
+
+h1 {
+  color: whitesmoke;
+  align-self: center;
+  font-size: 3em;
+}
+
+button {
+  width: 15%;
+  align-self: center;
+  margin-bottom: 4em;
+}
