@@ -12,11 +12,19 @@ header h1 {
   color: $orange;
   font-weight: bold;
   align-self: center;
+  font-size: xx-large;
 }
 
 .box {
   background-color: $yellow;
 }
 
-button {
+#tile-group-1 {
+  margin-left: 4em;
+  margin-right: 4em;
+}
+
+#tile-group-2 {
+  margin-left: 4em;
+  margin-right: 4em;
 }

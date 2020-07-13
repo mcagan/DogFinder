@@ -5,8 +5,11 @@ $yellow: #f8e16c;
 $purple: #4f4789;
 $green: #748b75;
 
+$box-padding: 2em;
+
 //overwrite default variables
 $primary: $purple;
 $link: $green;
 $warning: $yellow;
 $danger: $red;
+$column-gap: 3rem;
