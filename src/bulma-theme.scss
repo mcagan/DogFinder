@@ -1,0 +1,22 @@
+@import "variables";
+@import "~bulma";
+@import "overrides";
+
+header {
+  background-color: $purple;
+  height: 6em;
+  display: flex;
+}
+
+header h1 {
+  color: $orange;
+  font-weight: bold;
+  align-self: center;
+}
+
+.box {
+  background-color: $yellow;
+}
+
+button {
+}
